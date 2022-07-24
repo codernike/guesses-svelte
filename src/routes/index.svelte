@@ -48,6 +48,7 @@
         color: white;
         font-weight: bold;
         padding: 7px;
+        border: transparent 0px solid;
     }
     button:hover{
         background-color: white;
